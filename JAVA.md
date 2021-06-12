@@ -15,6 +15,7 @@ __강조__
 >Block Quote
 
 <hr>줄생성태그
-~~~java
+
+```java
 System.out.println("공부");
-~~~
+```
