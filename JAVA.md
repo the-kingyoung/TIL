@@ -16,6 +16,6 @@ __강조__
 
 <hr>줄생성태그
 
-```java
+~~~java
 System.out.println("공부");
-```
+~~~
