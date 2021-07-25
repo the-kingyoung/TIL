@@ -42,5 +42,7 @@ public class Main{
 		System.out.println("(5) = " + a*(b/100));
 		System.out.println("(6) = " + a*b);
 
+
+	}
 }
 ~~~
