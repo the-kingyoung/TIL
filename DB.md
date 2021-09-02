@@ -17,7 +17,8 @@
 	  case when extract(month from order_date) = 12 then order_amt end as "Dec"
 	from orders	
 	
- - 방법 2
+	
+  - 방법 2
  	select
 	  "year",
 	  case when mm =  1 then order_amt end as "Jan",
