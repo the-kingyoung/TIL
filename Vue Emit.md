@@ -24,3 +24,5 @@
  자식 Component에서 보내고자 하는 키 값과 보낼 메서드를 emit해준다.
  이 때 value 외에 키값을 더 보내고 싶다면 , this.value2, this.value3 과 같이 작성해주고
  부모 Component에서도 setInput(value, value2, value3)과 같이 받아주면 된다.
+ 
+ 복습
