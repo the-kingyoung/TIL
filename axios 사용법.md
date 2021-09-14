@@ -8,7 +8,7 @@
  - Promise(ES6) API 사용
  - 요청과 응답 데이터의 변형
  - HTTP 요청 취소
- - HTTP 요청과 응답을 JSON 형태로 자동 변경
+ - HTTP 요청과 응답을 JSON 형태로 자동 변경 - 복습
  
 ## 예제 코드
 	import axios from 'axios';
